@@ -1,0 +1,17 @@
+USERSTORY
+=========
+
+Grundgerüst erstellen und SFML-Einstellungen vornehmen
+	# Erledigt 27.02.2017
+
+Versionskontrolle
+
+Headerdateien hinzufügen:				  Erledigt
+	- StateManager						|	
+	- SceneNodeManager					|	
+	- WorldManager						|	
+	- GUIManager						|	
+	- Controller						|	
+	- EntityFramework					|	
+	- ResourceHolder / -Identifier		|	
+	- DataTables						|	
