@@ -18,7 +18,7 @@ App-Version:          0.0.0.1
 
 int main(int argc, char* argv[] )
 {
-  
+  std::cout << "START" << std::endl;
 
 
   return EXIT_SUCCESS;
